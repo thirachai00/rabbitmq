@@ -1,2 +1,4 @@
+github.com/andreagrandi/go-amqp-example v0.0.0-20150406194359-55ff8ba8e7bb h1:w8s4Rg/CxV6LrfAj1fFEwjTQ3q+O2EvsvPT9qevNhDw=
+github.com/andreagrandi/go-amqp-example v0.0.0-20150406194359-55ff8ba8e7bb/go.mod h1:9AWMSIzllE93qPK3iMDa3oeJczWAG4zi62yaUbRzZj8=
 github.com/streadway/amqp v1.1.0 h1:py12iX8XSyI7aN/3dUT8DFIDJazNJsVJdxNVEpnQTZM=
 github.com/streadway/amqp v1.1.0/go.mod h1:WYSrTEYHOXHd0nwFeUXAe2G2hRnQT+deZJJf88uS9Bg=
